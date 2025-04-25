@@ -67,6 +67,6 @@ Experimentally validated miRNA–target gene pairs used to constrain alignment a
 
 ## Contact
 
-For questions or collaboration inquiries, please contact:  
+For questions please contact:  
 **mercihan@uni-mainz.de** or **enrique.morett@ibt.unam.mx**
 
