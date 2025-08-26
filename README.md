@@ -1,7 +1,7 @@
-# Population-scale analysis of microRNA conservation using genomic variants
+# Genomic Variation of Human microRNAs and Its Association with Functional Features
 
 This repository contains the full analysis pipeline and datasets for the manuscript  
-**"A Genomic Approach to Scoring microRNA Conservation in Humans"**.  
+**"Genomic Variation of Human microRNAs and Its Association with Functional Features"**.  
 We introduce a novel scoring framework for assessing microRNA (miRNA) conservation across the human population using gnomAD v4 variant data. The analysis explores the relationship between miRNA conservation, expression, targeting dynamics, alternative polyadenylation, and population-specific variation.
 
 ![Graphical Abstract](figures/graphical_abstract.png)
