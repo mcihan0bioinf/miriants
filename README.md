@@ -64,9 +64,12 @@ FASTA file containing miRNA seed sequences used for alignment against 3′ UTR r
 **validated_interactions.csv**  
 Experimentally validated miRNA–target gene pairs used to constrain alignment and interaction analyses.
 
+## Citation
+Cihan, M., Andrade-Navarro, M.A. & Morett, E. Genomic variation of human microRNAs and its association with functional features. Cell. Mol. Life Sci. 82, 411 (2025). https://doi.org/10.1007/s00018-025-05936-x
 
 ## Contact
 
 For questions please contact:  
 **mercihan@uni-mainz.de** or **enrique.morett@ibt.unam.mx**
+
 
